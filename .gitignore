@@ -1,0 +1,7 @@
+build/
+.gradle/
+out/keys/
+data*/
+.idea/
+*.iml
+.vscode/
